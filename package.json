@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "postinstall": "spago install",
-    "clean": "rm -rf node_modules output .spago dist/* *.lock",
+    "full-clean": "rm -rf node_modules output .spago dist/* *.lock",
+    "clean": "rm -rf output .spago dist/*",
     "build": "spago build",
     "watch": "spago build --watch",
     "dev": "yarn parcel assets/*.html",

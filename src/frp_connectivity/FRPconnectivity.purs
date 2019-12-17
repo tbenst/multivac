@@ -1,4 +1,4 @@
-module Multivac.Live (main) where
+module Multivac.FRPconnectivity where
 
 import Prelude
 

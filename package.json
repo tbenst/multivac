@@ -2,7 +2,7 @@
   "name": "multivac",
   "version": "0.1.0",
   "scripts": {
-    "full-clean": "rm -rf node_modules output .spago dist/* *.lock",
+    "full-clean": "rm -rf node_modules output .spago dist/* *.lock spago-packages.nix .spago2nix .cache ",
     "clean": "rm -rf output .spago dist/*",
     "build": "spago build",
     "watch": "spago build --watch",

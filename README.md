@@ -14,6 +14,7 @@ yarn spago serve
 yarn add --dev purescript spago parcel-bundler
 yarn spago init
 yarn spago install halogen
+yarn2nix > yarn.nix
 mkdir -p dist
 ```
 https://discourse.purescript.org/t/recommended-tooling-for-purescript-applications-in-2019/948

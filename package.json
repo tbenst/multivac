@@ -1,4 +1,6 @@
 {
+  "name": "multivac",
+  "version": "0.1.0",
   "scripts": {
     "full-clean": "rm -rf node_modules output .spago dist/* *.lock",
     "clean": "rm -rf output .spago dist/*",

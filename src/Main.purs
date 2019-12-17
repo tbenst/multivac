@@ -1,9 +1,9 @@
-module Main where
+module Multivac.Main where
 
 import Prelude
 
 import Effect (Effect)
-import Button as Button
+import Multivac.Button as Button
 import Halogen (liftEffect)
 import Halogen.Aff as HA
 import Halogen.VDom.Driver (runUI)

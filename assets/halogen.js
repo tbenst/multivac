@@ -1,0 +1,1 @@
+require("../output/Multivac.Main/index.js").main()

@@ -1,14 +1,12 @@
+## dev mode:
+run in separate terminals
+```
+yarn spago build --watch
+yarn parcel assets/*.html
+```
 ## useful commands
 ```
-yarn spago run
-```
-
-
-
-## deploy
-```
-yarn build
-yarn bundle
+yarn spago serve
 ```
 
 ## init project

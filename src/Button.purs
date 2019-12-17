@@ -1,4 +1,4 @@
-module Button (component) where
+module Multivac.Button (component) where
 
 import Prelude
 

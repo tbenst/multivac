@@ -2,7 +2,7 @@
 Welcome to a Spago project!
 You can edit this file as you like.
 -}
-{ name = "multivac"
+{ name = "my-project"
 , dependencies =
     [ "behaviors", "console", "drawing", "effect", "halogen", "psci-support" ]
 , packages = ./packages.dhall
